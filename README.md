@@ -1,4 +1,5 @@
 # AzureServiceBusQueueUpdating
+###### tags: `Azure` `WebJobs` `Service Bus` `Message Queue` `Duplicate Detection`
 
 `Problem`
 - 目前的專案使用 Azure Service Bus 當做 delayed jobs 的 Message Queue，然而卻發現 Queue 中有重複訊息的問題。
