@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/AzureServiceBusQueueReceiver/App.Debug.config
+/AzureServiceBusQueueReceiver/App.Release.config
